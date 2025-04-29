@@ -6,26 +6,18 @@ In this analysis, I developed a machine learning model to assess credit risk usi
 
 Key variables included:
 
-Borrower income
-
-Interest rate
-
-Loan amount
-
-Debt-to-income ratio
-
-Number of open accounts
-
-Presence of derogatory marks
-
-Total debt
+  - Borrower income
+  - Interest rate
+  - Loan amount
+  - Debt-to-income ratio
+  - Number of open accounts
+  - Presence of derogatory marks
+  - Total debt
 
 The process involved:
 
-Splitting the data into training and testing sets
-
-Training a Logistic Regression model
-
-Evaluating performance using a confusion matrix and classification report
+  - Splitting the data into training and testing sets
+  - Training a Logistic Regression model
+  - Evaluating performance using a confusion matrix and classification report
 
 This model aimed to determine how accurately these financial indicators could be used to classify loan risk.
