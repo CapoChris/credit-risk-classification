@@ -21,3 +21,11 @@ The process involved:
   - Evaluating performance using a confusion matrix and classification report
 
 This model aimed to determine how accurately these financial indicators could be used to classify loan risk.
+
+## Results
+
+The model demonstrates exceptional accuracy in identifying healthy loans, correctly classifying nearly all of the approximately 19,000 instances, achieving an accuracy rate of 99.9%. While its performance in detecting high-risk loans is slightly lower, it remains robust with an accuracy of around 94%.
+
+## Summary
+
+I would recommend using this model due to its exceptionally high overall accuracy. However, it is important to note that the model misclassifies high-risk loans as healthy approximately 15% of the time, which could present some risk.
